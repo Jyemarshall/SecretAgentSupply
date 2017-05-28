@@ -1,0 +1,18 @@
+body{
+  font-size: 18px;
+}
+.banner{
+  background-color: black;
+}
+.banner h2{
+  color: white;
+  font-family: Helvetica;
+  font-size: 1rem;
+  font-weight: bold;
+}
+.banner h1{
+  color: white;
+  font-family: Helvetica;
+  font-size: 2rem;
+  font-weight: bold;
+}
