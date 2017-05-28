@@ -15,4 +15,42 @@ body{
   font-family: Helvetica;
   font-size: 2rem;
   font-weight: bold;
+  width: 20rem;
+  display: block;
+}
+.background{
+  background-image: image(resources/moto.jpeg);
+}
+nav{
+  background-color: firebrick;
+  text-decoration: none;
+  color: white;
+  margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+header{
+  background-color: black;
+  width: 960px;
+  display: inline;
+  width: 100%;
+}
+header image{
+  height: 1.5rem;
+  padding-right:1rem ;
+  padding left:0.5rem ;
+}
+header h3{
+  font-family: Helvetica;
+  font-size: 1rem;
+}
+nav{
+  display: inline;
+  width: 100%;
+
+}
+nav li{
+
+  margin: auto;
 }
